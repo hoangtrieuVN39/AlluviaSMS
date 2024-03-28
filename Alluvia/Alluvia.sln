@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alluvia", "Alluvia.csproj", "{8955E593-F157-4E1D-A501-82719ECD6767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8955E593-F157-4E1D-A501-82719ECD6767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8955E593-F157-4E1D-A501-82719ECD6767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8955E593-F157-4E1D-A501-82719ECD6767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8955E593-F157-4E1D-A501-82719ECD6767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C473FDEF-A4A6-4CB7-8503-E8E7F1A8D38F}
+	EndGlobalSection
+EndGlobal
